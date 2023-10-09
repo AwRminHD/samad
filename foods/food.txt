@@ -1,0 +1,15 @@
+211	ghorme	2500
+212	gheime	2500
+213	kobide	3000
+214	joujeh	3000
+215	adas-polo	2000
+216	kotlet	1500
+217	makarani	2000
+218	mahi	3000
+219	adasi	1500
+220	estamboli	2000
+221	shensel	2000
+231	noshabeh	1000
+232	mast	1000
+233	mast-mosir	1500
+234	delester	1000

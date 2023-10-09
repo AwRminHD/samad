@@ -1,0 +1,4 @@
+111	self-markazi-pesaran	main-campus
+112	self-markazi-dokhtaran	main-campus
+113	self-khabgah-markazi	khabgah-markazi
+114	self-khabgah-ghalamchi	khabgah-ghalamchi

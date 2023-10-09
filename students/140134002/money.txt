@@ -1,0 +1,40 @@
+2023-01-28 // charging
++100000
+2023-02-01 // food reserved
+-2500
+2023-02-01 // food reserved
+-3000
+2023-02-01 // food reserved
+-2500
+2023-02-01 // food reserved
+-2500
+2023-02-01 // food reserved
+-1500
+2023-02-01 // food reserved
+-1000
+2023-02-01 // food reserved
+-1000
+2023-02-01 // food reserved
+-1000
+2023-02-01 // food reserved
+-3000
+2023-02-01 // food reserved
+-3000
+2023-02-01 // food reserved
+-3000
+2023-02-01 // food reserved
+-1000
+2023-02-01 // food reserved
+-1000
+2023-02-01 // food reserved
+-1500
+2023-02-01 // food reserved
+-3000
+2023-01-15 // food reserved
+-3000
+2023-02-01 // charging
++25000
+2023-02-01 charging
+-2000
+2023-02-07 // charging
++1100
